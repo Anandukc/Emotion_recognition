@@ -33,7 +33,7 @@ Linux/macOS:
 
 
 ```bash
-  git clone https://github.com/Groai/Emotion_detection_anandu.git
+  git clone https://github.com/Anandukc/Emotion_recognition.git
 ```
 
 
@@ -44,7 +44,7 @@ Linux/macOS:
 
 
 ```bash
-  cd Emotion_detection_anandu
+  cd Emotion_recognition
 ```
 
 - install required libraries
